@@ -1,0 +1,24 @@
+html{
+    scroll-behavior: smooth;
+}
+#videoshd{
+    background-color: #dad8d8;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2%;
+    padding-top: 20px;
+    justify-content: space-between;
+}
+#corpo{
+    background-color: #fff;
+}
+.imgMusica{
+    width: 273px;
+    height: auto;
+}
+.cartaoMusicas{
+    width: clamp(200,75%,273px);
+}
