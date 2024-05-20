@@ -12,12 +12,9 @@ html{
     padding-top: 30px;
 }
 #corpo{
-    background-color: #fff;
+    background-color: red;
 }
 .imgMusica{
     width: 273px;
     height: auto;
-}
-.cartaoMusicas{
-    width: clamp(200,75%,273px);
-}
+}}
