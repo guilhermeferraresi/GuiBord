@@ -8,9 +8,8 @@ html{
     margin: auto;
     display: flex;
     flex-wrap: wrap;
-    gap: 2%;
-    padding-top: 20px;
-    justify-content: space-between;
+    gap: 3%;
+    padding-top: 30px;
 }
 #corpo{
     background-color: #fff;
